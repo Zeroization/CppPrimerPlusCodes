@@ -2,6 +2,7 @@
 
 int main()
 {
-	std::cout << "learn to use .gitignore";
+	std::cout << "learn to use .gitignore!";
+
 	return 0;
 }
