@@ -1,3 +1,0 @@
-D:/DivClion/CppPrimerCodes/cmake-build-debug/CMakeFiles/CppPrimerCodes.dir
-D:/DivClion/CppPrimerCodes/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/DivClion/CppPrimerCodes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

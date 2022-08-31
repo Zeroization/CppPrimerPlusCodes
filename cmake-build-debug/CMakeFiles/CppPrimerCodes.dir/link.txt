@@ -1,3 +1,0 @@
-"F:\Programing\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CppPrimerCodes.dir/objects.a
-"F:\Programing\CLion 2022.2\bin\mingw\bin\ar.exe" qc CMakeFiles\CppPrimerCodes.dir/objects.a @CMakeFiles\CppPrimerCodes.dir\objects1.rsp
-"F:\Programing\CLion 2022.2\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\CppPrimerCodes.dir/objects.a -Wl,--no-whole-archive -o CppPrimerCodes.exe -Wl,--out-implib,libCppPrimerCodes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CppPrimerCodes.dir\linklibs.rsp
