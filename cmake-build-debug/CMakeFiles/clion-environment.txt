@@ -1,0 +1,4 @@
+ToolSet: w64 9.0 (local)@F:\Programing\CLion 2022.2\bin\mingw
+Options: 
+
+Options:
